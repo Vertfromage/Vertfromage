@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there ![Mr.WiggleBum](/blue.gif "Mr.WiggleBum")
 
 Check out my [GitHub Page](https://vertfromage.github.io./), it's where I've been recording a timeline of my progress as a programmer. 
-![Mr.WiggleBum](/blue.gif "Mr.WiggleBum")
+
+
 
 <!--
 **Vertfromage/Vertfromage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
