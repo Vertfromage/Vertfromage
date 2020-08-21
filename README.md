@@ -1,6 +1,5 @@
 ### Hi there
 ***
- ![Mr.WiggleBum](blue.gif)
 Check out my [GitHub Page](https://vertfromage.github.io./), it's where I've been recording a timeline of my progress as a programmer. 
 
 
