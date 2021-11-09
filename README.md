@@ -1,6 +1,7 @@
 ### Hi there
 ***
 Check out my [GitHub Page](https://vertfromage.github.io./), it's where I've been recording a timeline of my progress as a programmer. 
+Unfortunately not up to date, sorry.
 
 
 
