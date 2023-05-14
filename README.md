@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN stack or HTML5 games**
 
-- 🧟 Mr.Brown Ice Breaker [Game](https://neararcade.com/mrbrown/) collaboration with [Curtis Robinson](linkedin.com/in/curtis-robinson-31b11115) and art by [Lomaking](https://mrbrownproject.com/) 
+- 🧟 [Mr.Brown Ice Breaker](https://neararcade.com/mrbrown/) Game collaboration with [Curtis Robinson](linkedin.com/in/curtis-robinson-31b11115) and art by [Lomaking](https://mrbrownproject.com/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
