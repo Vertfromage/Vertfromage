@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Crystal Parker</h1>
-<h3 align="center">A junior full-stack developer from Canada</h3>
+<h3 align="center">A junior developer from NS, Canada</h3>
 
-- 🔭 I’m currently working on [Cheat Sheet Generator](https://github.com/Vertfromage/cheat-sheet-generator)
+- 🌱 I’m currently learning **NEXTJS, Microsoft Azure, Unity**
 
-- 🌱 I’m currently learning **AWS, Docker, CI/CD**
+- 🌱 Working on my honours thesis focused on the intersection of Mobile Gaming and Security
 
 - 👨‍💻 My personal [Github Page](https://vertfromage.github.io./)
 
