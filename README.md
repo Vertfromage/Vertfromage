@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Crystal Parker</h1>
 <h3 align="center">A junior developer from NS, Canada</h3>
 
-- 🌱 I’m currently learning **NEXTJS, Microsoft Azure, Unity**
+- 🌱 I’m currently learning **Angular**
 
 - 🌱 Working on my honours thesis focused on the intersection of Mobile Gaming and Security
 
