@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Crystal Parker</h1>
 <h3 align="center">A junior developer from NS, Canada</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, web accessibility, Jest testing**
 
-- 🌱 Working on my honours thesis focused on the intersection of Mobile Gaming and Security
+- 👩‍💼 Currently working as a software engineer at Level Access making the internet more accessible for everyone!
 
 - 👨‍💻 My personal [Github Page](https://vertfromage.github.io./)
 
-- 💬 Ask me about **MERN stack or HTML5 games**
+- 💬 Ask me about **MERN/MEAN stack or HTML5 games**
 
 - 🧟 [Mr.Brown Ice Breaker](https://neararcade.com/mrbrown/) Game collaboration with [Curtis Robinson](linkedin.com/in/curtis-robinson-31b11115) and art by [Lomaking](https://mrbrownproject.com/) 
 
