@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Crystal Parker</h1>
-<h3 align="center">A junior developer from NS, Canada</h3>
+<h3 align="center">A Software Engineer from NS, Canada</h3>
 
-- 🌱 I’m currently learning **Angular, web accessibility, Jest testing**
-
+- 🌱 I’m currently working at Level Access using Angular and typescript to build full stack accessible applications.
+- 
 - 👩‍💼 Currently working as a software engineer at Level Access making the internet more accessible for everyone!
 
 - 👨‍💻 My personal [Github Page](https://vertfromage.github.io./)
